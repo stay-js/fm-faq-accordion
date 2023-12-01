@@ -6,7 +6,7 @@ const description =
   'This is a solution to the FAQ accordion challenge on Frontend Mentor. Built with Next.js and Tailwind CSS.';
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://faq-accordion.znagy.hu'),
+  metadataBase: new URL('https://fm-faq-accordion.znagy.hu'),
 
   authors: [{ name: 'Zétény Nagy', url: 'https://znagy.hu' }],
   creator: 'Zétény Nagy',
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
 
   openGraph: {
     type: 'website',
-    url: 'https://faq-accordion.znagy.hu',
+    url: 'https://fm-faq-accordion.znagy.hu',
     title: description,
     siteName: title,
     locale: 'en-US',

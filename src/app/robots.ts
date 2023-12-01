@@ -7,8 +7,8 @@ const robots = (): MetadataRoute.Robots => ({
       allow: '/',
     },
   ],
-  host: 'https://faq-accordion.znagy.hu',
-  sitemap: 'https://faq-accordion.znagy.hu/sitemap.xml',
+  host: 'https://fm-faq-accordion.znagy.hu',
+  sitemap: 'https://fm-faq-accordion.znagy.hu/sitemap.xml',
 });
 
 export default robots;

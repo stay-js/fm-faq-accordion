@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github.com/stay-js/fm-faq-accordion](https://github.com/stay-js/faq-accordion)
-- Live Site URL: [faq-accordion.znagy.hu](https://faq-accordion.znagy.hu)
+- Solution URL: [github.com/stay-js/fm-faq-accordion](https://github.com/stay-js/fm-faq-accordion)
+- Live Site URL: [fm-faq-accordion.znagy.hu](https://fm-faq-accordion.znagy.hu)
 
 ## Built with
 
