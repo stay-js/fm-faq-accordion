@@ -21,9 +21,10 @@ const RootLayout: React.FC<{ children: React.ReactNode }> = ({ children }) => (
   <html lang="en" className="antialiased">
     <body
       className={cn(
-        'bg-light-pink bg-[url("/background-pattern-mobile.svg")] bg-contain bg-no-repeat lg:bg-[url("/background-pattern-desktop.svg")]',
+        'bg-light-pink bg-[url("/background-pattern-mobile.svg")] bg-no-repeat lg:bg-[url("/background-pattern-desktop.svg")]',
         workSans.className,
       )}
+      style={{ backgroundSize: '100%' }}
     >
       {children}
     </body>
