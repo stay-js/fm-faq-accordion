@@ -5,7 +5,7 @@ import { Disclosure } from '@headlessui/react';
 import { accordionItems } from '~/constants/accordion-items';
 
 export const Accordion: React.FC = () => (
-  <div className="mx-6 flex flex-col gap-8 rounded-2xl bg-white p-6 shadow-xl lg:w-[39rem] lg:p-12">
+  <div className="mx-6 flex flex-col gap-8 rounded-2xl bg-white p-6 shadow-xl lg:w-[38rem] lg:p-10">
     <div className="flex items-center gap-6">
       <Image
         className="h-8 w-8 lg:h-10 lg:w-10"
@@ -15,7 +15,7 @@ export const Accordion: React.FC = () => (
         height={41}
       />
 
-      <h1 className="text-dark-purple text-4xl font-bold lg:text-5xl">FAQs</h1>
+      <h1 className="text-dark-purple text-4xl font-bold lg:text-6xl">FAQs</h1>
     </div>
 
     <div className="flex flex-col gap-4 lg:gap-6">
